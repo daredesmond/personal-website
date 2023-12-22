@@ -78,6 +78,8 @@
 #image {
     padding-left: 7rem;
     padding-top: 5rem;
+    display: flex;
+    justify-content: space-around;
 }
 
 #details-1 {
@@ -94,5 +96,5 @@
     font-family: sans-serif;
     font-size: 1.8rem;
     color: #0D0C0C;
-
+    width: 50%;
 }
