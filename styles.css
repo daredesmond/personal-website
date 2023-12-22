@@ -1,0 +1,91 @@
+
+#logo {
+        color: black;
+            font-size: 30px;
+            font-family: Inspiration;
+            font-weight: 400;
+            word-wrap: break-word
+            
+}
+
+#navigation {
+    color: #0E85C8;
+        font-size: 20px;
+        font-family: Roboto Condensed;
+        font-weight: 400;
+        word-wrap: break-word;
+        display: flex;
+        padding: 0.8125rem 5.125rem 0.75rem 2.0625rem;
+        gap: 3.375rem;
+        justify-content: flex-end;
+        
+        
+}
+
+#about-me {
+    color: #0D0C0C;
+    font-size: 30px; 
+    font-family: Roboto; 
+    font-weight: 400; 
+    word-wrap: break-word;
+    
+}
+
+#about-me-2 {
+        width: 25%;
+        height: 50%;
+        color: #958989;
+        font-size: 26px;
+        font-family: Roboto;
+        font-weight: 400;
+        line-height: 45.77px;
+        word-wrap: break-word;
+}
+
+#main-button {
+    width: 15%;
+    height: 100%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background: #0E85C8;
+    border-radius: 6px;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    
+}
+
+#button {
+    color: white; 
+    font-size: 20px; 
+    font-family: Roboto Condensed; 
+    font-weight: 400; 
+    word-wrap: break-word"
+}
+
+#details {
+            width: 100%;
+            height: 45rem;
+            flex-shrink: 0;
+            background: #0E85C8;
+            padding: auto;
+            margin-top: 10px;
+}
+
+#image {
+    padding-left: 7rem;
+    padding-top: 5rem;
+}
+
+#details-1 {
+        display: flex;
+        color: white;
+        font-size: 40px;
+        font-family: Roboto Condensed;
+        font-weight: 400;
+        word-wrap: break-word
+        
+}
