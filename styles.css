@@ -89,3 +89,10 @@
         word-wrap: break-word
         
 }
+
+#intro {
+    font-family: sans-serif;
+    font-size: 1.8rem;
+    color: #0D0C0C;
+
+}
